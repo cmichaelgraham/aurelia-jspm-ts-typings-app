@@ -16,3 +16,5 @@
 
 `npm install typings --save-dev`
 
+`typings install aurelia-metadata --save`
+
